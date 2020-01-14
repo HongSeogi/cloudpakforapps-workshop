@@ -2,11 +2,12 @@
 
 ## Day 1: Kabanero and Appsody for Developers and Operators
 
-In this first day we'll learn how to use Appsody to run the *inner loop* of the development and test cycle for a developer, and how these tools can be integrated into your favorite IDE.
+* 개발자가 Appsody 를 이용하여 개발을 진행하는 과정과 테스트 사이클을 진행하는 과정에 대하여 배운다. 
+그리고, 선호하는 IDE 와 어떻게 연동되는지에 대하여 알아봅니다.  
 
-We'll also explore how to deploy an application to OpenShift, first manually with Appsody for dev/test purposes, and then using the standard Kabanero Tekton piplines with GitOps as part of a continual test/production cycle.
+또한 애플리케이션을 어떻게 OpenShift 에 배포하는지에 대해서 알아봅니다. 먼저 Appsody 를 수동으로 Dev / Test 용도로 이용하는 법에 대해 배우고, 표준 Kabanero Tekton 파이프라인과 지속적인 테스트, 운영 사이클의 일부분인 GitOps 를 이용합니다.  
 
-Our goal for the end of the day is represented below. But, don't worry about it right now, we'll get there together by following the exercises step-by-step.
+이번 워크샵의 최종 목적은 아래 기술되어 있으므로, 단계별 연습을 통해 이뤄보도록 하겠습니다.  
 
 ![Our end state when Day 1 is done](images/architecture.png)
 
